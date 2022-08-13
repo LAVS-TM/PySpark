@@ -3,6 +3,10 @@
 [title-img]:https://img.shields.io/badge/-LAVS-blue
 [profile]:https://github.com/LAVS-TM
 
+
+
+PySpark project is an **analysis**, a development of **insights** and a training of a **prediction model** for different stocks dataset such as APPLE, AMAZON or GOOGLE.  
+
 ### Root
 
 * `project_part1.ipynb` is our first part with the data analysis and with the insights of the stocks.
@@ -12,8 +16,6 @@
 
 
 
-
-RAND is a repository for a sport **dataset analysis** made with the language **R**. The analysis is done in `Projet_final_Lemonnier_Alexandre_Simonin_Victor.ipynb` with a dataset description, some **statistical analysis**, **visualisation**, a **PCA** (Principal Component Analysis ) and finally a **logistic regression**.
 
 
 ## Dataset
