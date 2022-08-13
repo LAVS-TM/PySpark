@@ -5,7 +5,9 @@
 
 
 
-PySpark project is an **analysis**, a development of **insights** and a training of a **prediction model** for different stocks dataset such as `APPLE`, `AMAZON` or `GOOGLE`.  
+PySpark project is an **analysis**, a development of **insights** and a training of a **prediction model** for different stocks dataset such as `APPLE`, `AMAZON` or `GOOGLE`. All the work is done with **Spark** in python.
+
+<img src="https://github.com/LAVS-TM/PySpark/blob/main/prices.png" alt="Prices">
 
 ## Repository
 
@@ -56,7 +58,14 @@ A positive **covariance** means that returns of the two assets move together whi
 * 8 - MACD :
 **MACD** is the Moving average convergence divergence (MACD), a trend-following momentum indicator that shows the relationship between two **moving averages** of a stock price.
 
+
+Here is an example of the **MACD** for the `APPLE` stock :
+
+<img src="https://github.com/LAVS-TM/PySpark/blob/main/macd.png" alt="MACD">
+
 ## Machine Learning
 
+The **machine learning** part is quite simple, we want to predict the stock for the future using our dataset (here the `CLOSE` variable)
 
-<img src="https://github.com/LAVS-TM/RAND/blob/main/readme_images/dataset.png" alt="Dataset">
+We are using the **Root Mean Square Error** (RMSE) which is a standard way to measure the error of a model in predicting quantitative data.
+We are also using the **R2_score**.
