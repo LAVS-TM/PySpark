@@ -17,7 +17,7 @@ The repository is organised as follows :
 * `Big_Data_presentation.pdf` is our slides for the final presentation.
 
 
-## Anaysis
+## Analysis
 
 First in this section, we **explore** the datasets to have more informations about them. We have 7 different dataset on the stocks of different companies : `AMAZON`, `APPLE`, `FACEBOOK`, `GOOGLE`, `MICROSOFT`, `TESLA` and `ZOOM`.
 
@@ -30,8 +30,31 @@ Then we study the datasets to answer those questions :
 
 We also analyse the **moving average** and the **return rate** of the stocks and the **correlation** between the different stocks.
 
+
 ## Insight
 
+In this section, we implemented 8 different **insights** to get more informations about our datasets and that can be helpful for our use case.
+
+* 1 - Price data :
+**Close price** evolution for each stocks depending on the date.
+
+* 2 - Variance :
+Computation of the **variance** of our stocks, it helps us know how the price will evolve and how volatile the investment will be.
+
+* 3 - Volatility (standard deviation) :
+Computation of the **standard deviation**. Here it helps us to determine the risks of an investment in the stock. When the **standard deviation** is closer to the mean, the investment is less risky. But when the **standard deviation** is further from the mean, the investment is of greater risk.
+
+* 4 - Covariance :
+A positive **covariance** means that returns of the two assets move together while a negative **covariance** means they move inversely.
+
+* 5 - Return Percentage
+
+* 6 - Expected Returns
+
+* 7 - Value At Risk
+
+* 8 - MACD :
+**MACD** is the Moving average convergence divergence (MACD), a trend-following momentum indicator that shows the relationship between two **moving averages** of a stock price.
 
 ## Machine Learning
 
