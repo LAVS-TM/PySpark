@@ -67,5 +67,5 @@ Here is an example of the **MACD** for the `APPLE` stock :
 
 The **machine learning** part is quite simple, we want to predict the stock for the future using our dataset (here the `CLOSE` variable).
 
-We are using the **Root Mean Square Error** (RMSE) which is a standard way to measure the error of a model in predicting quantitative data.
+We are using the **Root Mean Square Error** (the RMSE) which is a standard way to measure the error of a model in predicting quantitative data.
 We are also using the **R2_score**.
