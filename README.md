@@ -33,7 +33,7 @@ Then we study the datasets to answer those questions :
 We also analyse the **moving average** and the **return rate** of the stocks and the **correlation** between the different stocks.
 
 
-## Insight
+## Insights
 
 In this section, we implemented 8 different **insights** to get more informations about our datasets and that can be helpful for our use case.
 
